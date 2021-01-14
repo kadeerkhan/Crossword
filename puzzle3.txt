@@ -1,0 +1,15 @@
+.*.*.*.
+.*.*.*.
+.*.*.*.
+*******
+*.*.*.*
+*.*.*.*
+*.*.*.*
+ABCDEFG
+AAAA
+BBBB
+CCCC
+DDDD
+EEEE
+FFFF
+GGGG

@@ -1,0 +1,8 @@
+****
+*..*
+****
+*..*
+ABAB
+BABA
+ACAC
+BACA
